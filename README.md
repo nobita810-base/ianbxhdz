@@ -1,1 +1,14 @@
-# ianbxhdz
+{
+  "nameServer": "JINWO",
+  "address": "103.178.234.122",
+  "port": 14445,
+  "language": 0,
+  "typeSv": 0,
+  "homeUrl": "ngocrongjinwo.click",
+  "logoUrl": "",
+  "isUnLockOptionTemplate": 0,
+  "listPorata": "454, 921, 1852",
+  "typeReadHpMod": 0,
+  "typeGetParam": 0,
+  "isPaintRuby": 0
+}
